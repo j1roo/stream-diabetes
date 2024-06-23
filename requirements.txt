@@ -2,6 +2,6 @@ numpy== 2.0.0
 pandas== 2.2.2
 streamlit
 pillow
-pickle
+matplotlib== 3.9.0
 scikit-learn
-pip== 24.1
+joblib==1.4.2
