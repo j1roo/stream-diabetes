@@ -5,3 +5,4 @@ pillow
 matplotlib== 3.9.0
 scikit-learn
 joblib==1.4.2
+pickle
